@@ -5,7 +5,7 @@ Checks if app is installed from store
 ## Install
 
 ```bash
-npm install install-checker
+npm install @bgma-nl/install-checker
 npx cap sync
 ```
 

@@ -1,6 +1,6 @@
 {
-  "name": "install-checker",
-  "version": "0.0.3",
+  "name": "@bgma-nl/install-checker",
+  "version": "1.0.0",
   "description": "Checks if app is installed from store",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -16,13 +16,13 @@
     "InstallChecker.podspec"
   ],
   "author": "BGMA",
-  "license": "Closed",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com.git"
+    "url": "git@github.com:BGMA-NL/IonicCapacitorInstallChecker.git"
   },
   "bugs": {
-    "url": "https://github.com/issues"
+    "url": "https://github.com/BGMA-NL/IonicCapacitorInstallChecker/issues"
   },
   "keywords": [
     "capacitor",
