@@ -2,11 +2,11 @@
 import PackageDescription
 
 let package = Package(
-    name: "InstallChecker",
+    name: "BgmaNlInstallChecker",
     platforms: [.iOS(.v15)],
     products: [
         .library(
-            name: "InstallChecker",
+            name: "BgmaNlInstallChecker",
             targets: ["InstallCheckerPlugin"])
     ],
     dependencies: [
