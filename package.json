@@ -1,6 +1,6 @@
 {
   "name": "@bgma-nl/install-checker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Checks if app is installed from store",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
